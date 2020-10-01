@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\bin\Debug\Gauge.dll
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\bin\Debug\Gauge.pdb
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CopyComplete
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Баширов\SKU-STS\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
